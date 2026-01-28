@@ -31,3 +31,8 @@ npm-debug.log*
 # Cache
 .cache/
 .pytest_cache/
+
+# Planning files
+PLAN.md
+NEXT_STEPS_AND_QPLAN.md
+TEST_RESULTS.md
